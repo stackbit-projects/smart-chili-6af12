@@ -21,7 +21,7 @@
             },
             {
                 "label": "SERVICES",
-                "url": "#",
+                "url": "/services",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
