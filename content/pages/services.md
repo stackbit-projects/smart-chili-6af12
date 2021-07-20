@@ -1,6 +1,6 @@
 ---
 title: Services
-img_alt: lorem-ipsum
+img_alt: services
 seo:
   title: ''
   description: ''
