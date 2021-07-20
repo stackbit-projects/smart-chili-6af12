@@ -9,6 +9,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 subtitle: What we offer
+img_path: /images/shutterstock_750073606.jpg
 ---
 ## Lorem ipsum
 
